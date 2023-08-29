@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fungyingau
+- 👋 Hi, I’m @phoenixau
 - 👀 I’m interested in UX and UI
 - 🌱 I’m currently learning html, css and JavaScript
 - 💞️ I’m looking to collaborate on ...
